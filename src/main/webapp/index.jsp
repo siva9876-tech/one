@@ -8,11 +8,10 @@
 	<h1 style="color: green; font-size: 40px;" align="center">234567890</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: grey; font-size: 40px;" align="center">we are done with ci/cd</h1>
-        <h1 style="color: grey; font-size: 40px;" align="center">we integrated nexus also / cd</h1>
-        <h1 style="color: grey; font-size: 40px;" align="center">we are done nexus also</h1>
-	
-        <h1 style="color: orange; font-size:50px;" align="center">Jenkins is CI/CD tool</h1>
-       <marquee>ankammarao</marquee>
+        <h1 style="color: lightgreen; font-size: 40px;" align="center">we integrated nexus also / cd</h1>
+        <h1 style="color: blue; font-size: 40px;" align="center">we are done nexus also</h1>
+	<h1 style="color: orange; font-size:50px;" align="center">Jenkins is CI/CD tool</h1>
+       <marquee><h1 style="color: purple; font-size: 50px;">ANKAMMARAO</marquee>
 	
 	
 	
