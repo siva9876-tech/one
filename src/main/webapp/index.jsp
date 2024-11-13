@@ -11,7 +11,7 @@
         <h1 style="color: lightgreen; font-size: 40px;" align="center">we integrated nexus also / cd</h1>
         <h1 style="color: blue; font-size: 40px;" align="center">we are done nexus also</h1>
 	<h1 style="color: orange; font-size:50px;" align="center">Jenkins is CI/CD tool</h1>
-       <marquee><h1 style="color: purple; font-size: 50px;">ANKAMMARAO</marquee>
+       <marquee><h1 style="color: purple; font-size: 50px;"><img src="C:\Users\admin\Pictures">ANKAMMARAO</marquee>
 	
 	
 	
